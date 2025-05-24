@@ -4,6 +4,7 @@ Authors: Bryan Reynolds, Patrick Thomas
 
 End-to-end face key point detection and morphing.
 The below demo uses no prior keypoint alignment via SVD and removes background points.
+
 ![Demo](demo.gif) 
 [Video demo here.](https://uillinoisedu-my.sharepoint.com/:v:/g/personal/pwt2_illinois_edu/EYkcQO4sUjJGj450dLeOgSsBRiT9httLjgS4H4DKeY50iA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TS69E4)
 Requires UIUC MS365 login.
