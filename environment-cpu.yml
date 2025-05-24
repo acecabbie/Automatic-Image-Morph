@@ -1,0 +1,20 @@
+name: cs445
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+  - nvidia
+dependencies:
+  - python=3.11
+  - ipykernel
+  - jupyterhub
+  - jupyterlab
+  - matplotlib
+  - notebook
+  - numpy
+  - opencv
+  - pandas
+  - scipy
+  - tensorflow
+  - tf-keras
+  - tqdm
